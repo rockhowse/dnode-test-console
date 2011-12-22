@@ -11,13 +11,13 @@ Then run the following commands to install the proper node.js dependencies (dnod
 C:\Users\Sexbox\Desktop\nodejs>cd dnode-test-console
 C:\Users\Sexbox\Desktop\nodejs\dnode-test-console>npm i
 ...
-dnode@0.9.3 ./node_modules/dnode
-├── jsonify@0.0.0
-├── lazy@1.0.7
-├── traverse@0.4.6
-├── dnode-protocol@0.1.1 (traverse@0.5.2)
-├── socket.io@0.8.6 (policyfile@0.0.4 redis@0.6.7)
-└── socket.io-client@0.8.6
+dnode@0.9.3 ./node_modules/dnode\n
+├── jsonify@0.0.0\n
+├── lazy@1.0.7\n
+├── traverse@0.4.6\n
+├── dnode-protocol@0.1.1 (traverse@0.5.2)\n
+├── socket.io@0.8.6 (policyfile@0.0.4 redis@0.6.7)\n
+└── socket.io-client@0.8.6\n
 
 At this point, you can start up the server:
 
