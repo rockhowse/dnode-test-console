@@ -8,7 +8,7 @@ git clone https://github.com/rockhowse/dnode-test-console.git
 
 Then run the following commands to install the proper node.js dependencies (dnode and friends) for this project:
 
-C:\Users\Sexbox\Desktop\nodejs>cd dnode-test-console
+C:\Users\Sexbox\Desktop\nodejs>cd dnode-test-console\\n
 C:\Users\Sexbox\Desktop\nodejs\dnode-test-console>npm i
 ...
 dnode@0.9.3 ./node_modules/dnode
